@@ -1,1 +1,2 @@
 with some text
+another line of text to test message
